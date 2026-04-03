@@ -4,11 +4,6 @@
 Aerial Surveillance, Wildlife Monitoring, Security &amp; Defense Applications
 
 
-
-Project Title
-
-Aerial Object Classification and Detection
-
 Skills Acquired
 Deep Learning
 Computer Vision
