@@ -1,7 +1,7 @@
 # Aerial-Object-Classification-Detection
 
+<img width="719" height="435" alt="image" src="https://github.com/user-attachments/assets/6ca83d98-7ee3-4bb1-b24a-571269927375" />
 
-![Uploading image.png…]()
 
 
 
