@@ -15,3 +15,12 @@ with zipfile.ZipFile(output, 'r') as zip_ref:
     zip_ref.extractall(extract_path)
 
 print("Dataset extracted!")
+
+
+
+
+
+import os
+
+for root, dirs, files in os.walk("/content/dataset"):
+    print(root)
